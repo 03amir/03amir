@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=03amir&show_icons=true&theme=dark&title_color=58a6e1&text_color=cfcfcf&locale=en" alt="03amir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=03amir&theme=dark" alt="03amir" /></p>
+
+https://activity-graph.herokuapp.com/graph?username={)3amir}&theme=minimal
+
