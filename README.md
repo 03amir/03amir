@@ -23,5 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=03amir&theme=dark" alt="03amir" /></p>
 
-https://activity-graph.herokuapp.com/graph?username={)3amir}&theme=minimal
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=3amir&theme=minimal" alt="03amir" /></p>
+
+
 
