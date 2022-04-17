@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=o3amir&theme=material-palenight" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=03amir&theme=material-palenight" />
 </p>
 
 
