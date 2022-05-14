@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Helllo World, I'm Amirul! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hello World, I'm Amirul! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">An aspiring Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03amir&label=Profile%20views&color=58a6e1&style=flat-square" alt="03amir" /> </p>
