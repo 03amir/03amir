@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Backend Development
 - 🤝 I’m looking to collaborate with other developers and build cool projects
 - 🎯 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me **as2437@it.jgec.ac.in**
+- 📫 How to reach me: **as2437@it.jgec.ac.in**
 
 
 <h3 align="left">Connect with me:</h3>
