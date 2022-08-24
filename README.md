@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hello World, I'm Amirul! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">An aspiring Full Stack Developer from India</h3>
 
@@ -9,7 +7,7 @@
 
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Information Technology.
 - 🌱 I’m currently learning Backend Development.
-- 🤝 I’m looking to collaborate with other developers and build cool projects.
+- 🤝 I’m looking to collaborate with other developers and build cool stuffs.
 - 🎯 2022 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me: **as2437@it.jgec.ac.in**
 
