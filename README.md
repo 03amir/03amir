@@ -8,7 +8,7 @@
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Information Technology.
 - 🌱 I’m currently learning Backend Development.
 - 🤝 I’m looking to collaborate with other developers and build cool stuffs.
-- 🎯 2024 Goals: Contribute more to Open Source projects.
+- 🎯 2024 Goals: Cloud-Coumputing.
 - 📫 How to reach me: **as2437@it.jgec.ac.in**
 
 
